@@ -1,0 +1,59 @@
+{
+  "user": {
+    "id": "001",
+    "name": "Budi",
+    "email": "budi@gmail.com",
+    "phoneNumber": "0856456456",
+    "photoProfile": "url",
+    "propertyAgent": "beliRumah.com",
+    "Status": "active",
+    "aboutMe": {
+      "description": "halo halo saya budi",
+      "areaSpecialis": [
+        "Cibubur",
+        "Jakarta Timur",
+        "Bekasi",
+        "Depok"
+      ],
+      "bahasa": [
+        "indonesia",
+        "inggris"
+      ],
+      "alamat": "jl baru saja dibuat"
+    },
+    "contentId": [
+      "C01",
+      "C02"
+    ]
+  },
+  "content": {
+    "id": "C01",
+    "title": "rumah baru",
+    "price": 123000000,
+    "description": "rumah model terbaru loh ini",
+    "location": {
+      "kota": "Jakarta",
+      "kecamatan": "cawang",
+      "maps": "url maps"
+    },
+    "fasilitas": [
+      "kolam renang",
+      "taman"
+    ],
+    "specification": {
+      "kamarTidur": 2,
+      "kamarMandi": 1,
+      "luasTanah": 122,
+      "luasBangunan": 100,
+      "sertificate": "IMB",
+      "typeProperty": "rumah",
+      "jumlahLantai": "2",
+      "carport": "1",
+      "dayaListrik": "1300kwh",
+      "tahunDibangun": "2022",
+      "hadap": "utara"
+    },
+    "userCreate": "001",
+    "status": "active"
+  }
+}
